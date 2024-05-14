@@ -1,2 +1,2 @@
-# SQL-Esercizi-2023
-Cartella di esercizi relativi a SQL
+# SQL Exercises Repo 2023
+Repo created for exercises with SQL.
